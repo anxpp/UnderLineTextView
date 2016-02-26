@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UnderLineTextView</string>
+    <string name="title">带下划线的TextView</string>
+</resources>
